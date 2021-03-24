@@ -1,0 +1,3 @@
+include ':v4l2camera'
+include ':app'
+rootProject.name = "V4lmediapipe"
